@@ -1,5 +1,5 @@
 # EpicFactionsPro-v1.6.3
-GuildsRPG
+EpicFactions
 
 A simple(not so) plugin called EpicFactions based on FactionsPro also add new feature for your server.
 
